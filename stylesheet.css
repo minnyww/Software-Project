@@ -1,0 +1,15 @@
+#div1 {
+
+    background-color: red;
+    width: 100px;
+    height: 120px;
+    display: inline-block;
+    border: 50px;
+}
+
+.div2{
+    background-color: lightcyan;
+    width: 100px;
+    height: 120px;
+    display: inline-block;
+}
